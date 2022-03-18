@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Persinox
+- 👀 I’m interested in web develping, my target is to reach metaverse programming, web marketing and graphics web designer to create a new agency.
+- 🌱 I’m currently learning Javascript, PHP, SQL, Lavarel
+- 💞️ I’m looking to collaborate on Web depeloping and graphics studios.
