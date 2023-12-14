@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Persinox
-- 👀 I’m Junior web Developer
-- 🌱 HTML5, CSS3, Jvascript, PHP, MySQL. Next Lavarel.
-- 💞️ I’m looking to collaborate on Web agency with SEO develope system.
+
